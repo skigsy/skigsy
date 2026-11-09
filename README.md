@@ -16,7 +16,7 @@ My current work explores practical AI: how to evaluate it, how to work with it, 
 
 | Project | What it's for |
 | :--- | :--- |
-| **[Rust RAG](https://github.com/skigsy/rust-rag)** | A native Rust foundation for retrieval and Graph RAG, from Obsidian notes to private team search with source citations. |
+| **[Any RAG](https://github.com/skigsy/AnyRAG)** | A native Rust foundation for retrieval and Graph RAG, from Obsidian notes to private team search with source citations. |
 | **[BFB Index](https://micahrobertson.com/#bfb)** | Finding the balance between AI performance and affordability. A practical way to compare what you get for what you spend. |
 | **[Artificial Intent](https://micahrobertson.com/#architectingagency)** | My book on working deliberately with AI: the decisions, structures, and human judgment around the technology. |
 | **[micahrobertson.com](https://micahrobertson.com)** | The home for my work, writing, and approach to strategy, systems, and people. |
