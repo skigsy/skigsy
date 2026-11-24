@@ -16,6 +16,7 @@ My current work explores practical AI: how to evaluate it, how to work with it, 
 
 | Project | What it's for |
 | :--- | :--- |
+| **[AnySpace](https://github.com/skigsy/AnySpace)** | A local AI workspace that carries your files, workflows, and approvals between models and agents. [Get AnySpace 0.1](https://github.com/skigsy/AnySpace/releases/tag/v0.1.0) |
 | **[Any RAG](https://github.com/skigsy/AnyRAG)** | Rust-native document search and Graph RAG, from an Obsidian vault to private team search with source citations. [Get AnyRAG 1.0](https://github.com/skigsy/AnyRAG/releases/tag/v1.0.0) |
 | **[BFB Index](https://micahrobertson.com/#bfb)** | Finding the balance between AI performance and affordability. A practical way to compare what you get for what you spend. |
 | **[Artificial Intent](https://micahrobertson.com/#architectingagency)** | My book on working deliberately with AI: the decisions, structures, and human judgment around the technology. |
